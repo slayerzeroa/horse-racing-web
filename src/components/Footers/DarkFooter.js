@@ -62,14 +62,14 @@ function DarkFooter() {
           >
             Invision
           </a>
-          . Coded by{" "}
+          {/* . Coded by{" "}
           <a
             href="https://www.creative-tim.com?ref=nukr-dark-footer"
             target="_blank"
           >
             Creative Tim
           </a>
-          .
+          . */}
         </div>
       </Container>
     </footer>
