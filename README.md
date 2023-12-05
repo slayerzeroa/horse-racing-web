@@ -3,10 +3,7 @@
 Within the download you'll find the following directories and files:
 
 ```
-now-ui-kit-react
 .
-├── CHANGELOG.md
-├── LICENSE.md
 ├── README.md
 ├── jsconfig.json
 ├── package.json
@@ -52,31 +49,25 @@ now-ui-kit-react
         │   ├── LoginPage.js
         │   └── ProfilePage.js
         └── index-sections
-            ├── BasicElements.js
-            ├── Carousel.js
-            ├── CompleteExamples.js
-            ├── Download.js
-            ├── Examples.js
-            ├── Images.js
-            ├── Javascript.js
-            ├── Navbars.js
-            ├── Notifications.js
-            ├── NucleoIcons.js
-            ├── Pagination.js
-            ├── SignUp.js
-            ├── Tabs.js
-            └── Typography.js
+            ├── HorseData.js
+            ├── RaceData.js
+            └── LogoutPredict.js
 ```
 
-## Useful Links
+### Version Control
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w?ref=creativetim)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=nukr-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=nukr-github-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=nukr-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=nukr-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=nukr-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=nukr-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=nukr-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=nukr-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=nukr-github-readme)
+```
+Node.js: 20.10.0
+moment: 2.29.4,
+nouislider: 15.4.0,
+react: >=16.8.0,
+react-bootstrap-switch: 15.5.3,
+react-datepicker: ^4.24.0,
+react-datetime: 3.2.0,
+react-dom: >=16.8.0,
+react-router-dom: 6.11.1,
+react-scripts: 5.0.1,
+react-select: ^5.8.0,
+reactstrap: 8.10.0,
+sass: ^1.62.1
+```
