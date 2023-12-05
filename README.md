@@ -1,7 +1,6 @@
 ## File Structure
 
 ```
-.
 ├── README.md
 ├── jsconfig.json
 ├── package.json
