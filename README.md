@@ -67,4 +67,5 @@ react-scripts: 5.0.1,
 react-select: ^5.8.0,
 reactstrap: 8.10.0,
 sass: ^1.62.1
+npm: 10.2.4
 ```
